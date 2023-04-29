@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>107497204327-9o7f4f8emllia47cnkv78boer8nl5s60.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.107497204327-9o7f4f8emllia47cnkv78boer8nl5s60</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>107497204327-m08bt0r2feriebr3og65skhgnfgpoi9h.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDKVObeLv6uqbhgCAx20pFtNEYzJ2zlUO0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>107497204327</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.japps.tytapp</string>
+	<key>PROJECT_ID</key>
+	<string>tytapp-9571e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tytapp-9571e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:107497204327:ios:a06f427cd264064f4c02c2</string>
+</dict>
+</plist>

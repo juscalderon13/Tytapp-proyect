@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "107497204327",
+    "project_id": "tytapp-9571e",
+    "storage_bucket": "tytapp-9571e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107497204327:android:e86951994b925bac4c02c2",
+        "android_client_info": {
+          "package_name": "com.example.project_tytapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107497204327-m08bt0r2feriebr3og65skhgnfgpoi9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_tytapp1",
+            "certificate_hash": "eeae1cb3b860e74cb1aca5fd5db05b0ca602abac"
+          }
+        },
+        {
+          "client_id": "107497204327-lq94cling33b9tpu08qo011o9e6j50s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1quYdybygnj65fyLRt_ATQW1GWCAcd58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107497204327-lq94cling33b9tpu08qo011o9e6j50s6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107497204327-hfu5lcn7sbq3kdv2p5sa0k99ou3ljgpl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectTytapp1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107497204327:android:516f1b09163fbaf94c02c2",
+        "android_client_info": {
+          "package_name": "com.japps.tytapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107497204327-lq94cling33b9tpu08qo011o9e6j50s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1quYdybygnj65fyLRt_ATQW1GWCAcd58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107497204327-lq94cling33b9tpu08qo011o9e6j50s6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107497204327-hfu5lcn7sbq3kdv2p5sa0k99ou3ljgpl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectTytapp1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
